@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Мой сайт</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+    img { max-width: 300px; }
+  </style>
+</head>
+<body>
+  <h1>Привет, мир!</h1>
+  <img src="photo.jpg" alt="Фото">
+  <p>Это мой первый сайт на GitHub Pages.</p>
+</body>
+</html>
